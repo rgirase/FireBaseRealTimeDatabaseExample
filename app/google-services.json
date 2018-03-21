@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "90131700347",
+    "firebase_url": "https://fir-realtimedatabase-fb1d0.firebaseio.com",
+    "project_id": "fir-realtimedatabase-fb1d0",
+    "storage_bucket": "fir-realtimedatabase-fb1d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90131700347:android:18b6f97081cfafe4",
+        "android_client_info": {
+          "package_name": "com.example.rahul.fribaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90131700347-93s9h2m75j5rle83c8g77iplqbp7p155.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqQf98O_U-m_RBQwccALESMrC6Fd1d6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
